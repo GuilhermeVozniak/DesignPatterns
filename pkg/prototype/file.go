@@ -2,6 +2,7 @@ package prototype
 
 import "fmt"
 
+// File is an abstraction of a file in a OS
 type File struct {
 	Name string
 }
